@@ -1,8 +1,6 @@
 {
     "name": "rainbow85213/package-test",
     "description": "Package Create Test",
-    "type": "library",
-    "license": "1.0.0",
     "authors": [
         {
             "name": "rainbow852",
