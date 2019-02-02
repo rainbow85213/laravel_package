@@ -11,7 +11,7 @@ namespace Rainbow85213\Packagetest;
 
 class Hello
 {
-	public function world()
+	public function hello()
 	{
 		return "Hello Heedong!!!";
 	}
